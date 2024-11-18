@@ -4,8 +4,8 @@ This is a demo project to show what happens when you have circular dependencies 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/Maxim-Mazurok/vitest-circular-dependency-demo`
-1. `cd vitest-circular-dependency-demo`
+1. Clone the repository: `git clone https://github.com/Maxim-Mazurok/vite-circular-dependency-demo`
+1. `cd vite-circular-dependency-demo`
 1. (optional) Use appropriate Node.js version: `nvm i`
 1. Install dependencies: `npm ci`
 1. Run the tests: `npm test`
