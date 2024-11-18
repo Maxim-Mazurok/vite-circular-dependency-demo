@@ -1,4 +1,4 @@
-# Vitest Circular Dependency Demo
+# Vite Circular Dependency Demo
 
 This is a demo project to show what happens when you have circular dependencies in your project and how to fix them.
 
