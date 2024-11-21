@@ -1,6 +1,6 @@
-import { routes } from "./router";
+import { componentsEnum, URLs } from "./urls";
 
-const componentUrl = Object.keys(routes)[0];
+const componentUrl = URLs[componentsEnum.COMPONENT];
 
 export const Component = () => {
   return `I am at ${componentUrl}`;
