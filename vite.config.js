@@ -6,7 +6,7 @@ export default defineConfig({
         rollupOptions: {
             // Specify the input entry point(s)
             input: {
-              main: './src-good/main.ts', // Or your main entry file
+              main: './src-bad/main.ts', // Or your main entry file
             },
         }
     },

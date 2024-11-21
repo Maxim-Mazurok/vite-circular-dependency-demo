@@ -1,5 +1,5 @@
 import { Component } from "./component";
-import { getRoutes } from "./router";
+import { routes } from "./router";
 
 console.log(Component());
-console.log(getRoutes());
+console.log(routes);
