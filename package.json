@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "vite": "^5.4.11",
+    "vite-plugin-circular-dependency": "^0.5.0",
     "vitest": "^2.1.5"
   }
 }
